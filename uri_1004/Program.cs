@@ -8,9 +8,9 @@ namespace uri_1004
         {
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
-            int PROD = (a * b);
+            int SOMA = (a * b);
 
-            Console.WriteLine("SOMA = " + PROD);
+            Console.WriteLine("PROD = " + SOMA);
 
         }
     }
